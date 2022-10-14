@@ -1,0 +1,3 @@
+def ReadData():
+    print(".")
+ReadData()
